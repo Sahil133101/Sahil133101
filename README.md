@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sahil Sharma</h1>
-- 🌱 I’m currently learning **React, Data Structures and Algorithms.**
+- 🌱 I’m currently learning **Backend Developement.**
 
-- 💬 Ask me about **Open-CV, HTML,CSS,Python**
+- 💬 Ask me about **Open-CV, HTML,CSS,ReactJS**
 
 - 📫 How to reach me **sahilsharmanakur@gmail.com**
 
