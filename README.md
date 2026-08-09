@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sahil Sharma</h1>
-- 🌱 I’m currently learning **Backend Developement.**
+- 🌱 I’m Software Test Engineer.**
 
-- 💬 Ask me about **Open-CV, HTML,CSS,ReactJS**
+- 💬 Ask me about **Playwright,Typescript/Javascript, JMeter, Postman**
 
 - 📫 How to reach me **sahilsharmanakur@gmail.com**
 
