@@ -1,20 +1,84 @@
-<h1 align="center">Hi 👋, I'm Sahil Sharma</h1>
-- 🌱 I’m Software Test Engineer.**
+# Hi, I'm Sahil Sharma 👋
 
-- 💬 Ask me about **Playwright,Typescript/Javascript, JMeter, Postman**
+### QA Engineer | Test Automation | SDET Aspirant
 
-- 📫 How to reach me **sahilsharmanakur@gmail.com**
+I am a **QA Engineer** with a strong interest in **Test Automation, API Testing, and SDET practices**. I enjoy building reliable and maintainable automation frameworks and continuously improving my understanding of software quality and engineering practices.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sahil-sharma-793935231" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sahil-sharma-793935231" height="30" width="40" /></a>
-<a href="https://instagram.com/sahil._.sharma_____" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sahil._.sharma_____" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/sahilnakulish143" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sahilnakulish143" height="30" width="40" /></a>
-</p>
+Currently, I am focusing on strengthening my skills in **Playwright, TypeScript, API Automation, and CI/CD** while working toward becoming an **SDET**.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-<a hre ="https://react-redux.js.org/" target="_blank" rel="noreferrer"><img src=""https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original-wordmark.svg" alt="redux" width="40" height="40"/> </a>
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Sahil133101"/></a>
-</p>
+---
 
+## 🚀 Currently Working With
+
+* **Playwright**
+* **TypeScript**
+* **API Testing & Automation**
+* **REST APIs**
+* **Postman**
+* **Git & GitHub**
+* **GitHub Actions**
+* **SQL**
+* **Jira / Asana**
+* **Browser DevTools**
+
+## 🧪 Testing & Automation
+
+* Manual Testing
+* Functional Testing
+* Regression Testing
+* Smoke Testing
+* API Testing
+* UI Automation
+* API Automation
+* End-to-End Testing
+* Test Case Design
+* Bug Reporting & Tracking
+* SDLC & STLC
+
+## 📌 Automation Projects
+
+### Playwright API Automation Framework
+
+A Playwright + TypeScript based API automation framework implementing:
+
+* API Authentication
+* Custom Playwright Fixtures
+* CRUD API Automation
+* Dynamic API Request Chaining
+* External JSON Test Data
+* Response Validation
+* GitHub Actions CI
+
+🔗 **[View Project](https://github.com/Sahil133101/playwright-api-automation)**
+
+---
+
+## 🌱 Currently Learning
+
+* Advanced Playwright
+* Test Automation Framework Design
+* API Automation
+* TypeScript
+* CI/CD
+* SDET Best Practices
+* Automation Framework Architecture
+
+---
+
+## 🎯 Career Goal
+
+**QA Engineer → Automation Test Engineer → SDET**
+
+I am continuously working on practical projects and improving my automation and programming skills to move toward a strong **SDET profile**.
+
+---
+
+## 📫 Connect With Me
+
+**LinkedIn:**
+[linkedin.com/in/sahil-sharma-793935231](https://www.linkedin.com/in/sahil-sharma-793935231)
+
+
+---
+
+⭐ *Always learning, building, testing, and improving.*
